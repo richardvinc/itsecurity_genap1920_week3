@@ -41,7 +41,7 @@
 
 <body>
     <div class="login-form">
-        <form action="login_process.php" method="post">
+        <form action="login_process_simple.php" method="post">
             <h2 class="text-center">Log in</h2>
             <div class="form-group">
                 <input type="email" name="username" class="form-control" placeholder="Username" required="required">

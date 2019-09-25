@@ -41,7 +41,7 @@
 
 <body>
     <div class="register-form">
-        <form action="register_process.php" method="post">
+        <form action="register_process_simple.php" method="post">
             <h2 class="text-center">Create an account</h2>
             <div class="form-group">
                 <input type="email" name="username" class="form-control" placeholder="Username" required="required">
